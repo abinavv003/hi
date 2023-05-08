@@ -1,0 +1,9 @@
+WIN+ E -FILES
+WIN+ A -WIFI ETC
+win+h -voice type
+win+ i -settings
+Ctrl + N-Open a new window.
+
+Ctrl + T-Open a new tab and switch to it. 
+
+Ctrl + 1, 2, 3,...-Move to that tab number. 
